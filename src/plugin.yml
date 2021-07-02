@@ -1,0 +1,7 @@
+name: Example
+version: 1.0.0
+author: Ccode-lang
+website: null
+
+main: com.Ccodelang.example.Example
+database: false
